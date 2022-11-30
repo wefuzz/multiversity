@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  hackfi:
+    build: 
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - $PWD:/app
+    command: yarn start
+    restart: always
+
+    ports:
+      - 3000:3000
