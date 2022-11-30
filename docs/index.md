@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-title: 👾 Multiversity
+title: 👾 WeFuzz Multiversity
 hide_title: true
 ---
 
-# 👾 WeFuzz Multiversity
+<img src="/img/multiversityx1.png" width="650px"/>
 
 ## Multiversity
 The meaning of Multiversity is a large university with many different departments. We hope this resource becomes a collection of all the resources useful for Hackers and Developers of various Blockchains to learn, develop and contribute.
@@ -14,8 +14,7 @@ WeFuzz is working with community to build *the Hacker DAO*, a fully decentralize
 
 Join the Hacker DAO here: [Discord](https://discord.com/invite/rNrp4kxXUZ) and follow us on [Twitter](https://twitter.com/wefuzz_io) to watch our progress.
 
-<img src="/img/multiversity.png"/>
-
+## Table of Contents
 Blockchains are revolutionary technologies that allow for secure, distributed, decentralized information storage. Blockchains disrupt the finance industry via DeFi, governance via DAOs, and collectibles via NFTs. Over the past few years, the blockchain has taken the engineering landscape by storm. However, due to the relative newness of blockchain compared to traditional technologies, its use is still hindered by speculation, confusion, uncertainty, and risk.
 
 In this resource, you will take a holistic look at security, from the theoretical foundations of the blockchain and smart contracts to finding and exploiting vulnerabilities in smart contracts.
@@ -104,3 +103,6 @@ Some of the skills and techniques you will learn are:
 
 ## [Disclaimer](#)
 **This content is for educational purpose only.**
+
+
+<img src="/img/multiversityx2.png" width="650px"/>

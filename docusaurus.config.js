@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/multiversity.png',
+  favicon: 'img/multiversityx1.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -56,7 +56,7 @@ const config = {
         title: 'Multiversity',
         logo: {
           alt: '<multiversity>',
-          src: 'img/multiversity.jpeg',
+          src: 'img/multiversityx1.png',
         },
         items: [
         ],
