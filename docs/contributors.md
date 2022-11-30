@@ -23,6 +23,7 @@ Thanks to all the wonderful articles contributed by the community 🎉
 - [pwning.eth](https://twitter.com/PwningEth)
 - [code4rena](https://twitter.com/code4rena)
 - [WeFuzz](https://twitter.com/wefuzz_io)
+- [Sherlock](https://twitter.com/sherlockdefi)
 - [Immunefi](https://twitter.com/immunefi)
 - [razzorsec](https://twitter.com/razzorsec)
 - [Trail of Bits](https://twitter.com/trailofbits)
