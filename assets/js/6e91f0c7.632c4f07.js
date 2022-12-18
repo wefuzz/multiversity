@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhackfi_training=self.webpackChunkhackfi_training||[]).push([[51],{1077:i=>{i.exports=JSON.parse('{"title":"Blockchain \u26d3\ufe0f","slug":"/blockchain","permalink":"/blockchain","navigation":{"previous":{"title":"Contributors \ud83d\udc6c\ud83d\udc6d","permalink":"/contributors"},"next":{"title":"ToC","permalink":"/blockchain/day-1-toc"}}}')}}]);
