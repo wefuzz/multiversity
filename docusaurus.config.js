@@ -9,7 +9,7 @@ const config = {
   title: 'Multiversity',
   tagline: 'The Hacker DAOs\' collection of awesome resources useful for Hackers and Developers to learn, hack, and secure various Blockchains!',
   url: 'https://multiversity.wefuzz.io/',
-  baseUrl: '/multiversity/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/multiversityx1.png',
