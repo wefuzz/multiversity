@@ -51,3 +51,5 @@ Thanks to all the wonderful articles contributed by the community 🎉
 - [𝚊𝚕𝚔𝚊𝚕𝚒](https://twitter.com/alkalinesec)
 - [sec3 (secure web3)](https://twitter.com/sec3dev)
 - [Anatoly Yakovenko](https://twitter.com/aeyakovenko)
+- [pencilflip.glow 🍄](https://twitter.com/pencilflip)
+- [Armani ONE 🎒](https://twitter.com/armaniferrante)

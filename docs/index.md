@@ -85,6 +85,7 @@ Some of the skills and techniques you will learn are:
 - Static Analysis
 - Visualization Tools
 - Dynamic Analysis
+- Decompilers, Emulators and More
 
 ### [Capture The Flags](/tools/index#capture-the-flags)
 - Damn Vulnerable DeFi

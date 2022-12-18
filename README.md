@@ -22,7 +22,6 @@ Some of the skills and techniques you will learn are:
 - How to test and exploit vulnerabilities in smart contracts
 
 
-
 ## Disclaimer
 
 **This training & content is for educational purpose only.**

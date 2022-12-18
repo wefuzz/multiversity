@@ -9,7 +9,7 @@ const config = {
   title: 'Multiversity',
   tagline: 'The Hacker DAOs\' collection of awesome resources useful for Hackers and Developers to learn, hack, and secure various Blockchains!',
   url: 'https://multiversity.wefuzz.io/',
-  baseUrl: '/',
+  baseUrl: '/multiversity/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/multiversityx1.png',
@@ -65,7 +65,7 @@ const config = {
       prism: {
         theme: require('prism-react-renderer/themes/dracula'),
         darkTheme: darkCodeTheme,
-        additionalLanguages: ['solidity'],
+        additionalLanguages: ['solidity', 'rust'],
       },
       usePrism: ['solidity'],
       colorMode: {
