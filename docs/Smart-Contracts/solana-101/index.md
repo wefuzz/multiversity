@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Solana Programs
 hide_title: true
-slug: /smart-contracts/solana
+slug: /smart-contracts/solana-programs
 ---
 
 ## Solana Programs
