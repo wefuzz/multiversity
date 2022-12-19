@@ -96,6 +96,7 @@ The cost of failure is education - Devin Carraway
 - [Solana’s Wormhole Hack Post-Mortem Analysis](https://extropy-io.medium.com/solanas-wormhole-hack-post-mortem-analysis-3b68b9e88e13)
 - [DNS Attack on Sol NFT Project— Post Mortem](https://medium.com/@treehousesofsolana/dns-attack-on-sol-nft-project-post-mortem-5268e8c178b4)
 - [What exactly happened in the Slope finance hack?](https://blog.cryptostars.is/what-exactly-happened-in-the-slope-finance-hack-ba6f82948452)
+- [Raydium: Detailed Post-Mortem and Next Steps](https://raydium.medium.com/detailed-post-mortem-and-next-steps-d6d6dd461c3e)
 
 ## Tezos
 - [Kolibri Liquidity Pool Exploit Postmortem](https://kolibri-xtz.medium.com/kolibri-liquidity-pool-exploit-postmortem-f738966c20fb)
