@@ -23,7 +23,7 @@ In this write-up, we will discuss ten ways ChatGPT can bring value to smart cont
 
 -------
 
-#### 1.  Providing clear and concise explanations of complex smart contract code
+### 1.  Providing clear and concise explanations of complex smart contract code
 
 One of the main challenges that smart contract auditors and bug bounty hunters face is understanding and analyzing complex smart contract code. Smart contract code is often highly technical and can be difficult to understand, particularly for those who are new to the field. ChatGPT can help solve this problem by providing clear and concise explanations of complex smart contract code.
 
@@ -53,7 +53,7 @@ Result:
 
     > "How is a random number created on blockchain, provide the function and explanation?"
 
-#### 2.  Facilitating access to relevant documentation and resources for smart contract audit
+### 2.  Facilitating access to relevant documentation and resources for smart contract audit
 
 Another challenge that smart contract auditors and bug bounty hunters often face is access to relevant documentation and resources for smart contract audit. 
 
@@ -73,7 +73,7 @@ When you're working on a smart contract and want to learn more about a particula
 
     > "Can you provide links to relevant documentation for creating NFT's on solana?"
 
-#### 3.  Providing assistance in understanding and implementing testing frameworks and tools for smart contracts
+### 3.  Providing assistance in understanding and implementing testing frameworks and tools for smart contracts
 
 Testing is an essential part of smart contract audit, and there are a variety of testing frameworks and tools available to help with this process. However, understanding and implementing these tools can be challenging, particularly for those who are new to smart contract audit.
 
@@ -95,7 +95,7 @@ This can be a huge help in understanding and implementing testing frameworks and
 
     > "Can you give me a tutorial on how to use anchor lang for solana?"
 
-#### 4.  Providing guidance on implementing security best practices for smart contracts
+### 4.  Providing guidance on implementing security best practices for smart contracts
 
 Security is a critical consideration in smart contract audit, and it is essential to follow best practices to ensure that your smart contracts are secure and reliable. 
 
@@ -117,7 +117,7 @@ ChatGPT will respond with a list of best practices for secure contract developme
 
     > "What are some common security vulnerabilities to look for in a smart contract?"
 
-#### 5.  Providing explanations of standard audit processes and procedures
+### 5.  Providing explanations of standard audit processes and procedures
 
 Smart contract audit involves a variety of processes and procedures that need to be followed to ensure that the audit is thorough and comprehensive. 
 
@@ -141,7 +141,7 @@ Result:
 -------
 ![chatGPT_10p_drawing1](/img/chatgpt/chatGPT_10p_drawing1.png)
 
-#### 6.  Providing assistance in reproducing and troubleshooting issues in smart contracts
+### 6.  Providing assistance in reproducing and troubleshooting issues in smart contracts
 
 One of the main challenges that smart contract auditors and bug bounty hunters face is reproducing and troubleshooting issues in smart contracts. 
 
@@ -161,7 +161,7 @@ This can be a huge help in identifying and fixing issues in smart contracts, and
 
     > "How can I analyze the on-chain data of a smart contract to identify potential issues?"
 
-#### 7.  Providing guidance on scaling the audit process
+### 7.  Providing guidance on scaling the audit process
 
 As the volume of smart contracts increases, it can become increasingly challenging to audit them efficiently and effectively. ChatGPT can help solve this problem by providing guidance on scaling the audit process to handle large volumes of work.
 
@@ -177,7 +177,7 @@ Result:
 
 The more specific you are, the more concrete response ChatGPT gives you, including suggestions for how to scale the audit process to handle large volumes of work, and any relevant documentation or resources.
 
-#### 8.  Providing guidance on automating the audit process
+### 8.  Providing guidance on automating the audit process
 
 If you're working on a large volume of smart contracts and want to know how to automate parts of the audit process, you can ask ChatGPT for help. ChatGPT can help solve this problem by providing guidance on automating the audit process.
 
@@ -197,7 +197,7 @@ Tip: You can furthermore ask on creating a quick tutorial on how to use those to
 
     > "What are some tools and techniques for automating the testing of a smart contract?"
 
-#### 9.  Providing assistance in identifying and fixing issues in smart contracts
+### 9.  Providing assistance in identifying and fixing issues in smart contracts
 
 Identifying and fixing issues in smart contracts is a critical part of the audit process, and it is important to ensure that issues are addressed thoroughly and correctly. 
 
@@ -217,7 +217,7 @@ ChatGPT will respond with suggestions for how to identify and fix the issue, inc
 
     > "What should I consider when evaluating the governance mechanism of a smart contract?"
 
-#### 10.  Providing guidance on managing large volumes of smart contracts
+### 10.  Providing guidance on managing large volumes of smart contracts
 
 Managing large volumes of smart contracts can be a significant challenge, particularly when it comes to organizing and prioritizing the work. ChatGPT can help solve this problem by providing guidance on managing large volumes of smart contracts.
 
