@@ -257,20 +257,6 @@ ChatGPT will respond with suggestions for how to ensure that you have sufficient
 
 ## Conclusion
 
-In this blog, we have discussed 10 + 1 ways ChatGPT can bring value to smart contract auditors and bug bounty hunters. To recap:
-
-    Ways ChatGPT can help beginners:
-        -   Providing clear and concise explanations of complex smart contract code
-        -   Recommending tools & techniques, facilitating access to relevant documentation and resources
-        -   Providing assistance in understanding and implementing testing frameworks and tools for smart contracts
-        -   Providing guidance on implementing security best practices for smart contracts
-        -   Providing explanations of standard audit processes and procedures
-
-    Ways ChatGPT can help professionals:
-        -   Providing assistance in reproducing and troubleshooting issues in smart contracts
-        -   Providing guidance on scaling the audit process
-        -   Providing guidance on automating the audit process
-        -   Providing assistance in identifying and fixing issues in smart contracts
-        -   Providing guidance on managing large volumes of smart contracts
+In this blog, we have discussed 10 + 1 ways ChatGPT can bring value to smart contract auditors and bug bounty hunters. 
 
 Whether you are a beginner looking to learn and improve your skills, or a professional looking to work more efficiently and effectively, ChatGPT can be a valuable tool to help you in your work. With its ability to provide clear and concise explanations of complex concepts and processes, facilitate access to relevant documentation and resources, assist in understanding and implementing testing frameworks and tools, provide guidance on implementing security best practices, and much more, ChatGPT can be a powerful asset for anyone working in the field of smart contract audit.
