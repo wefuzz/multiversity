@@ -58,7 +58,7 @@ In a `PoS` consensus algorithm, the network relies on a set of validators to pro
 
 The `Tower BFT` algorithm uses a combination of cryptographic techniques and game theory to ensure that the validators behave honestly and reach consensus in a timely manner. It also has a built-in mechanism for detecting and handling faulty or malicious validators, which helps to ensure the security and integrity of the network.
 
-### Trubine
+### Turbine
 Turbine, Solana’s block-propagation technique, borrows heavily from BitTorrent. Turbine works by dividing the work of processing transactions into smaller chunks, which are then processed concurrently by different nodes in the network. This allows the network to handle a higher volume of transactions in a shorter amount of time, improving the overall scalability and performance of the platform.
 
 Turbine is an optional feature of the Solana blockchain and can be enabled or disabled by validators depending on their specific needs and requirements. It is typically used in situations where high transaction throughput is required, such as in decentralized finance (DeFi) applications or other high-volume use cases.

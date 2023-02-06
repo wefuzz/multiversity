@@ -117,7 +117,7 @@ The `data` field is an optional field taht a virtual machine can parse and use f
 #### Messages
 - Essentially, a message is like a transaction, except it is produced by a contract and not an external actor. 
 - A message is produced when a contract currently executing code executes the `CALL` opcode, which produces and executes a message.
-- Like a transaction, a messag leads to the recipient account running its code.
+- Like a transaction, a message leads to the recipient account running its code.
 - Thus, contracts can have relationships with other contracts in exactly the same way that external actors can.
 
 A message contains:
