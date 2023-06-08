@@ -9,10 +9,6 @@ hide_title: true
 ## Multiversity
 The meaning of Multiversity is a large university with many different departments. We hope this resource becomes a collection of all the resources useful for Hackers and Developers of various Blockchains to learn, develop and contribute.
 
-## The Hacker DAO
-WeFuzz is working with community to build *the Hacker DAO*, a fully decentralized, community owned, crowdsourced security audit and bug bounty platform: allowing developers and companies to get their smart contracts, blockchains, websites and other applications audited by the auditors and hackers community.
-
-Join the Hacker DAO here: [Discord](https://discord.com/invite/rNrp4kxXUZ) and follow us on [Twitter](https://twitter.com/wefuzz_io) to watch our progress.
 
 ## Table of Contents
 Blockchains are revolutionary technologies that allow for secure, distributed, decentralized information storage. Blockchains disrupt the finance industry via DeFi, governance via DAOs, and collectibles via NFTs. Over the past few years, the blockchain has taken the engineering landscape by storm. However, due to the relative newness of blockchain compared to traditional technologies, its use is still hindered by speculation, confusion, uncertainty, and risk.
