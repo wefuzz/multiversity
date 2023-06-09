@@ -1,27 +1,35 @@
 ---
 sidebar_position: 1
-title: 👾 WeFuzz Multiversity
+title: 👾 Multiversity
 hide_title: true
 ---
 
 <img src="/img/multiversityx1.png" width="650px"/>
 
 ## Multiversity
-The meaning of Multiversity is a large university with many different departments. We hope this resource becomes a collection of all the resources useful for Hackers and Developers of various Blockchains to learn, develop and contribute.
+Multiversity is a vast open university housing multiple departments. Our aim is to create a comprehensive resource hub for Hackers and Developers involved in various Blockchains, fostering learning, development, and contribution.
 
 
-## Table of Contents
-Blockchains are revolutionary technologies that allow for secure, distributed, decentralized information storage. Blockchains disrupt the finance industry via DeFi, governance via DAOs, and collectibles via NFTs. Over the past few years, the blockchain has taken the engineering landscape by storm. However, due to the relative newness of blockchain compared to traditional technologies, its use is still hindered by speculation, confusion, uncertainty, and risk.
+## Introduction
 
-In this resource, you will take a holistic look at security, from the theoretical foundations of the blockchain and smart contracts to finding and exploiting vulnerabilities in smart contracts.
+Unless you’re living under a rock, you would have heard of blockchain and its capabilities in the disruption of multiple industries including finance, asset ownership, governance, supply chain and much much more. 
 
-First, this course will give you the prerequisites to understand blockchain and smart contracts' architecture and major components. Then, it takes you through creating and setting up a development and testing environment allowing you to efficiently build, deploy and debug smart contracts on the local testnet. You will also get to learn how to find vulnerabilities and exploit vulnerabilities in the local testing environment.
+Despite blockchain's engineering dominance, blockchain development lacks the safety, security, integrity, and ethics prevalent in other industries. 
+These resources promise a holistic look at security from the theoretical foundations to the practical applications in finding and exploiting vulnerabilities across the blockchain landscape. 
 
-Some of the skills and techniques you will learn are:
-- How to interact with and get data from public blockchains
-- How to write smart contracts in  Solidity
-- How to find vulnerabilities in smart contract
-- How to test and exploit vulnerabilities in smart contracts
+Whether you’re a student, novice or a professional, there’s something in it for you! 
+And, what’s better? You can contribute to the ever-growing resources to help spread the knowledge of blockchain security to others.  
+
+You can
+
+- Learn the prerequisites to understand blockchain and smart contracts' architecture and major components. 
+- Create and setup a development and testing environment allowing you to efficiently build, deploy and debug smart contracts on the local testnet. 
+- Learn how to find vulnerabilities and exploit vulnerabilities in the local testing environment.
+- Understand interaction with and retrieve data from public blockchains. 
+- Learn to write smart contracts in Solidity. 
+- Learn the ways to find vulnerabilities in smart contract. 
+- Learn testing and exploiting vulnerabilities in smart contracts.
+
 
 ##  [Introduction](./blockchain)
 
