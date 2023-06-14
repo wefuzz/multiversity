@@ -7,7 +7,7 @@ hide_title: true
 <img src="/img/multiversityx1.png" width="650px"/>
 
 ## Multiversity
-Multiversity is a vast open university housing multiple departments. Our aim is to create a comprehensive resource hub for Hackers and Developers involved in various Blockchains, fostering learning, development, and contribution.
+Multiversity is a vast open repository of knowledge. Our aim is to create a comprehensive resource hub for Hackers and Developers involved in various Blockchains, fostering learning, development, and contribution.
 
 
 ## Introduction
